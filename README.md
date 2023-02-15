@@ -16,4 +16,9 @@ Important Aspects to mention:
 	* Each computation is done with Math.round() method which rounds up the quantity.
 	* Each Field will not accept empty values (""), negative values (# < 0) nor str values.
 
+Snapshots:
+
+![](Images/DeveloperSnapshot.png)
+
+
 
